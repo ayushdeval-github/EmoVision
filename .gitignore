@@ -1,0 +1,6 @@
+.env
+data/
+venv/
+emotion_detection_model.keras
+__pycache__/
+*.pyc
